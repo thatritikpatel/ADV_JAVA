@@ -1,0 +1,44 @@
+#prof_box{
+	/* border: 1px solid #2da3e1; */
+	margin: 20px auto 50px auto;
+	width: 90%;
+}
+
+#lft_box{
+	width: 48%;
+	border-right: 1px solid #2da3e1;
+	/* height: 400px; */
+}
+
+#mdl_box{
+	width: 4%;
+}
+
+#rht_box{
+	width: 48%;
+	border-left: 1px solid #2da3e1;
+}
+
+.arrow{
+	width: 24px;
+}
+
+
+#inst_title{
+	border: 1px solid #2da3e1;
+	margin: 20px auto;
+	width: 90%;
+	color: #2da3e1;
+}
+
+.cat_sel_style{
+	padding: 3px 8px;
+	background-color: #6600ff;
+	color: white;
+}
+
+.cat_desel_style{
+	padding: 3px 8px;
+	background-color: white;
+	color: black;
+}

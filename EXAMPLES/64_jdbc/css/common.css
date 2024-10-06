@@ -1,0 +1,16 @@
+body{
+	margin: 0px auto;
+	background-color: #01537e;
+	font-family: verdana;
+	color: #555;
+}
+
+h1{
+	color: white;
+}
+
+#container{
+	margin: 0px auto;
+	/*background-color: red;*/
+	text-align: center;
+}

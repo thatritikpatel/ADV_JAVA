@@ -1,0 +1,30 @@
+#header{
+	height: 80px;
+	/* border: 1px solid #0f4bbd; */
+	background-color: #0f4bbd;
+	position: relative;
+}
+
+#logo{
+	position: absolute;
+	top: 10px;
+	left: 30px;
+	height: 55px;
+}
+
+#ctrl{
+	/* border: 1px solid white; */
+	position: absolute;
+	top: 3px;
+	left: 70%;
+	color: white;
+}
+
+#ctrl a{
+	text-decoration: none;
+	color: white;
+	border: 1px solid white;
+	padding: 4px 12px;
+	border-radius: 3px;
+	/* margin-right: 10px; */
+}

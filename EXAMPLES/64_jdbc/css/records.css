@@ -1,0 +1,21 @@
+table{
+	width: 50%;
+	color: white;
+	margin: 20px auto;
+	border: 1px solid white;
+	padding: 8px 20px;
+	border-radius: 5px;
+}
+
+caption{
+	font-size: 20px;
+	background-color: white;
+	color: #01537e;
+	padding: 2px 8px;
+
+}
+
+td,th{
+	border-bottom: 1px solid white;
+	height: 35px;
+}

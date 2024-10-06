@@ -1,0 +1,21 @@
+#menu{
+	/* border: 1px solid red; */
+	height: 28px;
+	padding-top: 8px;
+	border-bottom: 1px solid #cdd7fc;
+}
+
+#menu a{
+	text-decoration: none;
+	background-color: white;
+	color: #0f4bbd;
+	border: 1px solid #0f4bbd;
+	border-radius: 3px;
+	padding: 5px 12px;
+	margin-left: 12px;
+}
+
+.opover{
+	background-color: #0f4bbd;
+	color: white;
+}

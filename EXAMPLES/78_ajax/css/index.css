@@ -1,0 +1,34 @@
+body{
+	font-family: verdana;
+}
+
+#records{
+	border: 1px solid #bbb;
+	width: 100px;
+	display: none;
+}
+
+.rec{
+	border: 1px solid #ccc;
+	padding: 3px 8px;
+	cursor: pointer;
+}
+
+.over{
+	background-color: #ff9900;
+	color: white;
+}
+
+.out{
+	background-color: white;
+	color: #616558;
+}
+
+#details{
+	width: 500px;
+	border: 1px solid red;
+	border-radius: 5px;
+	font-size: 22px;
+	margin-top: 50px;
+	display: none;
+}

@@ -1,0 +1,28 @@
+#prof_box{
+	/* border: 1px solid #2da3e1; */
+	margin: 20px auto 50px auto;
+	width: 90%;
+}
+
+#lft_box{
+	width: 30%;
+	border-right: 1px solid #2da3e1;
+	/* height: 400px; */
+}
+
+#rht_box{
+	width: 70%;
+}
+
+#inst_pic{
+	border: 1px solid #2da3e1;
+	border-radius: 50%;
+	height: 225px;
+}
+
+#inst_title{
+	border: 1px solid #2da3e1;
+	margin: 20px auto;
+	width: 90%;
+	color: #2da3e1;
+}

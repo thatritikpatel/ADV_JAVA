@@ -1,0 +1,5 @@
+assocation
+aggregation
+composition
+generalization
+specialization
